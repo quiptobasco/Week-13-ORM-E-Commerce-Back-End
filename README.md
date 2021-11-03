@@ -15,9 +15,11 @@ An E-Commerce application using a MySQL backend, and Sequelize for ORM.
 [Video on how to use the application]
 
 ## Screenshots
-![screenshot]
+![screenshot](https://user-images.githubusercontent.com/87678391/140009148-5449242c-f558-4a49-9c47-3ce5d99a44b1.PNG)
 
-![screenshot]
+![screenshot](https://user-images.githubusercontent.com/87678391/140009149-c06f9c28-bc7c-4a7e-ac9e-91a4a7e34990.PNG)
+
+![screenshot](https://user-images.githubusercontent.com/87678391/140009150-4ad51a8c-e903-4b91-a8b5-21847ad9de9b.PNG)
 
 
 ## Installation
