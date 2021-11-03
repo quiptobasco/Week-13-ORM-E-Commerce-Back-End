@@ -12,7 +12,7 @@
 ## Description
 An E-Commerce application using a MySQL backend, and Sequelize for ORM.    
 
-[Video on how to use the application]
+[Video showing the application in action](https://watch.screencastify.com/v/XzmZUPvLOedUfLskiufH).
 
 ## Screenshots
 ![screenshot](https://user-images.githubusercontent.com/87678391/140009148-5449242c-f558-4a49-9c47-3ce5d99a44b1.PNG)
